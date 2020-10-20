@@ -15,7 +15,7 @@ Ingenieria de software
 
 2. Clonar el repositorio 
 
-    - git clone https://github.com/AlfredPolanco/InstaBot.git
+    - git clone https://github.com/AlfredPolanco/HelloWorld.git
 
 3. Acceder a la carpeta creada
 
